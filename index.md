@@ -16,6 +16,6 @@ _DOllARS in my bank account_
 
 
 
-[Miami Herald Sports](http://www.miamiherald.com/sports/]) and [RESUME](https://media.licdn.com/mpr/mpr/p/7/005/093/283/0b05e6f.jpg])
+[Miami Herald Sports](http://www.miamiherald.com/sports]) and [RESUME](https://media.licdn.com/mpr/mpr/p/7/005/093/283/0b05e6f.jpg])
 
 
