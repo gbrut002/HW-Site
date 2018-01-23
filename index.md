@@ -1,7 +1,6 @@
 ## Welcome to Gerald's homepage
 
-This is a homework assignment that I rushed to do but still accomplished because I'm the man.
-
+This is a homework assignment that I rushed to do but still had a little problem with my links
 
 
 ***I got ...**
