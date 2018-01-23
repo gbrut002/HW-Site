@@ -1,4 +1,4 @@
-## Welcome to Gerald's Pages
+## Welcome to Gerald's homepage
 
 This is a homework assignment that I rushed to do but still accomplished because I'm the man.
 
