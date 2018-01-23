@@ -4,31 +4,20 @@ This is a homework assignment that I rushed to do but still accomplished because
 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+***I got ...**
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+_DOllARS in my bank account_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+[http://www.espn.com](url) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gbrut002/HW-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![http://uxhandy.com/wp-content/uploads/2017/09/fake-resume-4.jpg](src)
